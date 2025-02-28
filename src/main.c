@@ -63,7 +63,7 @@ GtkWidget *button39;
 GtkWidget *button40;
 GtkWidget *button41;
 GtkWidget *button42;
-//我叫大臣
+//我叫大臣  dddd
 static void activate (GtkApplication *app, gpointer user_data);
 
 int main(int argc, char *argv[])
