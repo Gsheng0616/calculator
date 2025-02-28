@@ -14,7 +14,7 @@ GdkPixbuf *create_pixbuf(const gchar *filename)
 	}
 	return pixbuf;
 }
-
+//sssssS
 void callback_radix_convert(GtkWidget *widget, gpointer data)
 {
 	if (gtk_toggle_button_get_active(GTK_TOGGLE_BUTTON(widget)))

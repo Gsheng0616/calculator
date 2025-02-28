@@ -17,7 +17,7 @@ int conversion(char input_array[20], int from_radix, int to_radix)
 			break;
 		}
 	}
-
+//wwww
 	for (int i = dot_index - 1; i >= 0; i--)
 	{
 		int digit = 0;
